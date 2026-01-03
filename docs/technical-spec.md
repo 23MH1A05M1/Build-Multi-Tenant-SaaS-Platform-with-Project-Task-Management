@@ -156,7 +156,7 @@ VITE_API_URL=http://localhost:5000/api
 
 1. Clone the repository:
 ```
-git clone https://github.com/SRINIJA-PULLIPUDI/Multi-Tenant-SaaS-Platform-with-Project-and-Task-Management-System.git
+git clone https://github.com/23MH1A05M1/Build-Multi-Tenant-SaaS-Platform-with-Project-Task-Management
 ```
 
 2. Navigate to the project root:
