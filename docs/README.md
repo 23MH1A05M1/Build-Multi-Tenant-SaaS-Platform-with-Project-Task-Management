@@ -84,7 +84,7 @@ The system follows a three-tier architecture:
 ### Steps (Docker)
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/23MH1A05M1/Build-Multi-Tenant-SaaS-Platform-with-Project-Task-Management
 cd Multi-Tenant-SaaS-Platform-with-Project-and-Task-Management-System
 docker-compose up -d
 ```
@@ -139,4 +139,5 @@ Returns 200 od when backend is ready.
 | Super Admin  | [superadmin@system.com](mailto:superadmin@system.com) | Admin@123    |
 | Tenant Admin | [admin@demo.com](mailto:admin@demo.com)               | Demo@123     |
 | User         | [user1@demo.com](mailto:user1@demo.com)               | User@123     |
+
 | User         | [user2@demo.com](mailto:user1@demo.com)               | User@123     |
